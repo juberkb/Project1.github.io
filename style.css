@@ -1,0 +1,115 @@
+body {
+    font-family: 'Cormorant SC', serif;
+}
+
+#Header {
+    background: linear-gradient(to right, rgb(0, 0, 139), rgb(0, 0, 205));
+    padding: 10px 0px;
+}
+
+.nav-item {
+    font-size: 25px;
+}
+
+#Header img {
+    width: 100px;
+}
+
+#Header ul li a {
+    color: rgb(199, 212, 208);
+    transition-property: color;
+    transition-duration: 2s;
+}
+
+#Header ul li a:hover {
+    color: whitesmoke;
+    border: 1px whitesmoke solid;
+}
+
+#Header .bi {
+    color: whitesmoke;
+}
+
+#Header .navbar-toggler {
+    border: 1px solid whitesmoke;
+}
+
+#Header .navbar-toggler:focus {
+    border: none;
+}
+
+
+/* banner */
+
+#Banner #khan {
+    width: 400px;
+    border-radius: 50%;
+    border: 2px solid blue;
+}
+
+#Banner {
+    background: linear-gradient(to right, rgb(0, 0, 139), rgb(0, 0, 205));
+    color: whitesmoke;
+}
+
+#JK {
+    width: 100%;
+}
+
+
+/* banner */
+
+
+/* Testee */
+
+#khansaab {
+    width: 150px;
+    border-radius: 50%;
+}
+
+#testi {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* Testee */
+
+
+/* Footer */
+
+#Footer {
+    background: linear-gradient(to right, rgb(0, 0, 139), rgb(0, 0, 205));
+}
+
+#Footer #JKC {
+    width: 100%;
+}
+
+#Footer img {
+    width: 50px;
+    padding-bottom: 15px;
+}
+
+#Footer h2 {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#Footer .bi {
+    color: whitesmoke;
+    font-size: 2opx;
+}
+
+#Footer span {
+    color: white;
+    font-size: 15px;
+}
+
+#Footer #Logo {
+    width: 150px;
+}
+
+#Footer p {
+    color: whitesmoke;
+}
